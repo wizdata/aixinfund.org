@@ -1,0 +1,3255 @@
+# Copyright (C) 2014 WP Shop byGMO
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tidy 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/tidy\n"
+"POT-Creation-Date: 2014-04-16 03:09:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15
+msgid "404 - File or directory not found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"The resource you are looking for might have been removed, had its name "
+"changed, or is temporarily unavailable."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:88
+#: admin/includes/class-options-framework-admin.php:410
+msgid "Theme Options"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:253
+msgid "Save Changes"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:254
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:254
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:288
+msgid "Default options restored."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:341
+msgid "Options saved."
+msgstr ""
+
+#: admin/includes/class-options-framework-admin.php:392
+msgid "WP Shop"
+msgstr ""
+
+#: admin/includes/class-options-interface.php:392
+#: admin/includes/class-options-interface.php:403 inc/customizer.php:162
+#: inc/customizer.php:214
+msgid "On"
+msgstr ""
+
+#: admin/includes/class-options-interface.php:393
+#: admin/includes/class-options-interface.php:404 inc/customizer.php:163
+#: inc/customizer.php:215
+msgid "Off"
+msgstr ""
+
+#: admin/includes/class-options-interface.php:499
+msgid "<strong>RSS Error</strong>: %s"
+msgstr ""
+
+#: admin/includes/class-options-interface.php:503
+msgid "Apparently, there are no updates to show!"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:66
+#: admin/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:68
+#: admin/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:272
+msgid "No Repeat"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:273
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:274
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:275
+msgid "Repeat All"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:288
+msgid "Top Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:289
+msgid "Top Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:290
+msgid "Top Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:291
+msgid "Middle Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:292
+msgid "Middle Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:293
+msgid "Middle Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:294
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:295
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:296
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:309
+msgid "Scroll Normally"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:310
+msgid "Fixed in Place"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:384
+msgid "Normal"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:385
+msgid "Italic"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:386
+msgid "Bold"
+msgstr ""
+
+#: admin/includes/class-options-sanitization.php:387
+msgid "Bold Italic"
+msgstr ""
+
+#: admin/options.php:85
+msgctxt "Icon name"
+msgid "Home"
+msgstr ""
+
+#: admin/options.php:86
+msgctxt "Icon name"
+msgid "Home2"
+msgstr ""
+
+#: admin/options.php:87
+msgctxt "Icon name"
+msgid "Home3"
+msgstr ""
+
+#: admin/options.php:88
+msgctxt "Icon name"
+msgid "Office"
+msgstr ""
+
+#: admin/options.php:89
+msgctxt "Icon name"
+msgid "Newspaper"
+msgstr ""
+
+#: admin/options.php:90
+msgctxt "Icon name"
+msgid "Pencil"
+msgstr ""
+
+#: admin/options.php:91
+msgctxt "Icon name"
+msgid "Pencil2"
+msgstr ""
+
+#: admin/options.php:92
+msgctxt "Icon name"
+msgid "Quill"
+msgstr ""
+
+#: admin/options.php:93
+msgctxt "Icon name"
+msgid "Pen"
+msgstr ""
+
+#: admin/options.php:94
+msgctxt "Icon name"
+msgid "Blog"
+msgstr ""
+
+#: admin/options.php:95
+msgctxt "Icon name"
+msgid "Droplet"
+msgstr ""
+
+#: admin/options.php:96
+msgctxt "Icon name"
+msgid "Paint Format"
+msgstr ""
+
+#: admin/options.php:97
+msgctxt "Icon name"
+msgid "Image"
+msgstr ""
+
+#: admin/options.php:98
+msgctxt "Icon name"
+msgid "Image2"
+msgstr ""
+
+#: admin/options.php:99
+msgctxt "Icon name"
+msgid "Images"
+msgstr ""
+
+#: admin/options.php:100
+msgctxt "Icon name"
+msgid "Camera"
+msgstr ""
+
+#: admin/options.php:101
+msgctxt "Icon name"
+msgid "Music"
+msgstr ""
+
+#: admin/options.php:102
+msgctxt "Icon name"
+msgid "Headphones"
+msgstr ""
+
+#: admin/options.php:103
+msgctxt "Icon name"
+msgid "Play"
+msgstr ""
+
+#: admin/options.php:104
+msgctxt "Icon name"
+msgid "Film"
+msgstr ""
+
+#: admin/options.php:105
+msgctxt "Icon name"
+msgid "Camera2"
+msgstr ""
+
+#: admin/options.php:106
+msgctxt "Icon name"
+msgid "Dice"
+msgstr ""
+
+#: admin/options.php:107
+msgctxt "Icon name"
+msgid "Pacman"
+msgstr ""
+
+#: admin/options.php:108
+msgctxt "Icon name"
+msgid "Spades"
+msgstr ""
+
+#: admin/options.php:109
+msgctxt "Icon name"
+msgid "Clubs"
+msgstr ""
+
+#: admin/options.php:110
+msgctxt "Icon name"
+msgid "Diamonds"
+msgstr ""
+
+#: admin/options.php:111
+msgctxt "Icon name"
+msgid "Pawn"
+msgstr ""
+
+#: admin/options.php:112
+msgctxt "Icon name"
+msgid "Bullhorn"
+msgstr ""
+
+#: admin/options.php:113
+msgctxt "Icon name"
+msgid "Connection"
+msgstr ""
+
+#: admin/options.php:114
+msgctxt "Icon name"
+msgid "Podcast"
+msgstr ""
+
+#: admin/options.php:115
+msgctxt "Icon name"
+msgid "Feed"
+msgstr ""
+
+#: admin/options.php:116
+msgctxt "Icon name"
+msgid "Book"
+msgstr ""
+
+#: admin/options.php:117
+msgctxt "Icon name"
+msgid "Books"
+msgstr ""
+
+#: admin/options.php:118
+msgctxt "Icon name"
+msgid "Library"
+msgstr ""
+
+#: admin/options.php:119
+msgctxt "Icon name"
+msgid "File"
+msgstr ""
+
+#: admin/options.php:120
+msgctxt "Icon name"
+msgid "Profile"
+msgstr ""
+
+#: admin/options.php:121
+msgctxt "Icon name"
+msgid "File2"
+msgstr ""
+
+#: admin/options.php:122
+msgctxt "Icon name"
+msgid "File3"
+msgstr ""
+
+#: admin/options.php:123
+msgctxt "Icon name"
+msgid "File4"
+msgstr ""
+
+#: admin/options.php:124
+msgctxt "Icon name"
+msgid "Copy"
+msgstr ""
+
+#: admin/options.php:125
+msgctxt "Icon name"
+msgid "Copy2"
+msgstr ""
+
+#: admin/options.php:126
+msgctxt "Icon name"
+msgid "Copy3"
+msgstr ""
+
+#: admin/options.php:127
+msgctxt "Icon name"
+msgid "Paste"
+msgstr ""
+
+#: admin/options.php:128
+msgctxt "Icon name"
+msgid "Paste2"
+msgstr ""
+
+#: admin/options.php:129
+msgctxt "Icon name"
+msgid "Paste3"
+msgstr ""
+
+#: admin/options.php:130
+msgctxt "Icon name"
+msgid "Stack"
+msgstr ""
+
+#: admin/options.php:131
+msgctxt "Icon name"
+msgid "Folder"
+msgstr ""
+
+#: admin/options.php:132
+msgctxt "Icon name"
+msgid "Folder Open"
+msgstr ""
+
+#: admin/options.php:133
+msgctxt "Icon name"
+msgid "Tag"
+msgstr ""
+
+#: admin/options.php:134
+msgctxt "Icon name"
+msgid "Tags"
+msgstr ""
+
+#: admin/options.php:135
+msgctxt "Icon name"
+msgid "Barcode"
+msgstr ""
+
+#: admin/options.php:136
+msgctxt "Icon name"
+msgid "Qrcode"
+msgstr ""
+
+#: admin/options.php:137
+msgctxt "Icon name"
+msgid "Ticket"
+msgstr ""
+
+#: admin/options.php:138
+msgctxt "Icon name"
+msgid "Cart"
+msgstr ""
+
+#: admin/options.php:139
+msgctxt "Icon name"
+msgid "Cart2"
+msgstr ""
+
+#: admin/options.php:140
+msgctxt "Icon name"
+msgid "Cart3"
+msgstr ""
+
+#: admin/options.php:141
+msgctxt "Icon name"
+msgid "Coin"
+msgstr ""
+
+#: admin/options.php:142
+msgctxt "Icon name"
+msgid "Credit"
+msgstr ""
+
+#: admin/options.php:143
+msgctxt "Icon name"
+msgid "Calculate"
+msgstr ""
+
+#: admin/options.php:144
+msgctxt "Icon name"
+msgid "Support"
+msgstr ""
+
+#: admin/options.php:145
+msgctxt "Icon name"
+msgid "Phone"
+msgstr ""
+
+#: admin/options.php:146
+msgctxt "Icon name"
+msgid "Phone Hang Up"
+msgstr ""
+
+#: admin/options.php:147
+msgctxt "Icon name"
+msgid "Address Book"
+msgstr ""
+
+#: admin/options.php:148
+msgctxt "Icon name"
+msgid "Notebook"
+msgstr ""
+
+#: admin/options.php:149
+msgctxt "Icon name"
+msgid "Envelope"
+msgstr ""
+
+#: admin/options.php:150
+msgctxt "Icon name"
+msgid "Pushpin"
+msgstr ""
+
+#: admin/options.php:151
+msgctxt "Icon name"
+msgid "Location"
+msgstr ""
+
+#: admin/options.php:152
+msgctxt "Icon name"
+msgid "Location2"
+msgstr ""
+
+#: admin/options.php:153
+msgctxt "Icon name"
+msgid "Compass"
+msgstr ""
+
+#: admin/options.php:154
+msgctxt "Icon name"
+msgid "Map"
+msgstr ""
+
+#: admin/options.php:155
+msgctxt "Icon name"
+msgid "Map2"
+msgstr ""
+
+#: admin/options.php:156
+msgctxt "Icon name"
+msgid "History"
+msgstr ""
+
+#: admin/options.php:157
+msgctxt "Icon name"
+msgid "Clock"
+msgstr ""
+
+#: admin/options.php:158
+msgctxt "Icon name"
+msgid "Clock2"
+msgstr ""
+
+#: admin/options.php:159
+msgctxt "Icon name"
+msgid "Alarm"
+msgstr ""
+
+#: admin/options.php:160
+msgctxt "Icon name"
+msgid "Alarm2"
+msgstr ""
+
+#: admin/options.php:161
+msgctxt "Icon name"
+msgid "Bell"
+msgstr ""
+
+#: admin/options.php:162
+msgctxt "Icon name"
+msgid "Stopwatch"
+msgstr ""
+
+#: admin/options.php:163
+msgctxt "Icon name"
+msgid "Calendar"
+msgstr ""
+
+#: admin/options.php:164
+msgctxt "Icon name"
+msgid "Calendar2"
+msgstr ""
+
+#: admin/options.php:165
+msgctxt "Icon name"
+msgid "Print"
+msgstr ""
+
+#: admin/options.php:166
+msgctxt "Icon name"
+msgid "Keyboard"
+msgstr ""
+
+#: admin/options.php:167
+msgctxt "Icon name"
+msgid "Screen"
+msgstr ""
+
+#: admin/options.php:168
+msgctxt "Icon name"
+msgid "Laptop"
+msgstr ""
+
+#: admin/options.php:169
+msgctxt "Icon name"
+msgid "Mobile"
+msgstr ""
+
+#: admin/options.php:170
+msgctxt "Icon name"
+msgid "Mobile2"
+msgstr ""
+
+#: admin/options.php:171
+msgctxt "Icon name"
+msgid "Tablet"
+msgstr ""
+
+#: admin/options.php:172
+msgctxt "Icon name"
+msgid "Tv"
+msgstr ""
+
+#: admin/options.php:173
+msgctxt "Icon name"
+msgid "Cabinet"
+msgstr ""
+
+#: admin/options.php:174
+msgctxt "Icon name"
+msgid "Drawer"
+msgstr ""
+
+#: admin/options.php:175
+msgctxt "Icon name"
+msgid "Drawer2"
+msgstr ""
+
+#: admin/options.php:176
+msgctxt "Icon name"
+msgid "Drawer3"
+msgstr ""
+
+#: admin/options.php:177
+msgctxt "Icon name"
+msgid "Box Add"
+msgstr ""
+
+#: admin/options.php:178
+msgctxt "Icon name"
+msgid "Box Remove"
+msgstr ""
+
+#: admin/options.php:179
+msgctxt "Icon name"
+msgid "Download"
+msgstr ""
+
+#: admin/options.php:180
+msgctxt "Icon name"
+msgid "Upload"
+msgstr ""
+
+#: admin/options.php:181
+msgctxt "Icon name"
+msgid "Disk"
+msgstr ""
+
+#: admin/options.php:182
+msgctxt "Icon name"
+msgid "Storage"
+msgstr ""
+
+#: admin/options.php:183
+msgctxt "Icon name"
+msgid "Undo"
+msgstr ""
+
+#: admin/options.php:184
+msgctxt "Icon name"
+msgid "Redo"
+msgstr ""
+
+#: admin/options.php:185
+msgctxt "Icon name"
+msgid "Flip"
+msgstr ""
+
+#: admin/options.php:186
+msgctxt "Icon name"
+msgid "Flip2"
+msgstr ""
+
+#: admin/options.php:187
+msgctxt "Icon name"
+msgid "Undo2"
+msgstr ""
+
+#: admin/options.php:188
+msgctxt "Icon name"
+msgid "Redo2"
+msgstr ""
+
+#: admin/options.php:189
+msgctxt "Icon name"
+msgid "Forward"
+msgstr ""
+
+#: admin/options.php:190
+msgctxt "Icon name"
+msgid "Reply"
+msgstr ""
+
+#: admin/options.php:191
+msgctxt "Icon name"
+msgid "Bubble"
+msgstr ""
+
+#: admin/options.php:192
+msgctxt "Icon name"
+msgid "Bubbles"
+msgstr ""
+
+#: admin/options.php:193
+msgctxt "Icon name"
+msgid "Bubbles2"
+msgstr ""
+
+#: admin/options.php:194
+msgctxt "Icon name"
+msgid "Bubble2"
+msgstr ""
+
+#: admin/options.php:195
+msgctxt "Icon name"
+msgid "Bubbles3"
+msgstr ""
+
+#: admin/options.php:196
+msgctxt "Icon name"
+msgid "Bubbles4"
+msgstr ""
+
+#: admin/options.php:197
+msgctxt "Icon name"
+msgid "User"
+msgstr ""
+
+#: admin/options.php:198
+msgctxt "Icon name"
+msgid "Users"
+msgstr ""
+
+#: admin/options.php:199
+msgctxt "Icon name"
+msgid "User2"
+msgstr ""
+
+#: admin/options.php:200
+msgctxt "Icon name"
+msgid "Users2"
+msgstr ""
+
+#: admin/options.php:201
+msgctxt "Icon name"
+msgid "User3"
+msgstr ""
+
+#: admin/options.php:202
+msgctxt "Icon name"
+msgid "User4"
+msgstr ""
+
+#: admin/options.php:203
+msgctxt "Icon name"
+msgid "Quotes Left"
+msgstr ""
+
+#: admin/options.php:204
+msgctxt "Icon name"
+msgid "Busy"
+msgstr ""
+
+#: admin/options.php:205
+msgctxt "Icon name"
+msgid "Spinner"
+msgstr ""
+
+#: admin/options.php:206
+msgctxt "Icon name"
+msgid "Spinner2"
+msgstr ""
+
+#: admin/options.php:207
+msgctxt "Icon name"
+msgid "Spinner3"
+msgstr ""
+
+#: admin/options.php:208
+msgctxt "Icon name"
+msgid "Spinner4"
+msgstr ""
+
+#: admin/options.php:209
+msgctxt "Icon name"
+msgid "Spinner5"
+msgstr ""
+
+#: admin/options.php:210
+msgctxt "Icon name"
+msgid "Spinner6"
+msgstr ""
+
+#: admin/options.php:211
+msgctxt "Icon name"
+msgid "Binoculars"
+msgstr ""
+
+#: admin/options.php:212
+msgctxt "Icon name"
+msgid "Search"
+msgstr ""
+
+#: admin/options.php:213
+msgctxt "Icon name"
+msgid "Zoom In"
+msgstr ""
+
+#: admin/options.php:214
+msgctxt "Icon name"
+msgid "Zoom Out"
+msgstr ""
+
+#: admin/options.php:215
+msgctxt "Icon name"
+msgid "Expand"
+msgstr ""
+
+#: admin/options.php:216
+msgctxt "Icon name"
+msgid "Contract"
+msgstr ""
+
+#: admin/options.php:217
+msgctxt "Icon name"
+msgid "Expand2"
+msgstr ""
+
+#: admin/options.php:218
+msgctxt "Icon name"
+msgid "Contract2"
+msgstr ""
+
+#: admin/options.php:219
+msgctxt "Icon name"
+msgid "Key"
+msgstr ""
+
+#: admin/options.php:220
+msgctxt "Icon name"
+msgid "Key2"
+msgstr ""
+
+#: admin/options.php:221
+msgctxt "Icon name"
+msgid "Lock"
+msgstr ""
+
+#: admin/options.php:222
+msgctxt "Icon name"
+msgid "Lock2"
+msgstr ""
+
+#: admin/options.php:223
+msgctxt "Icon name"
+msgid "Unlocked"
+msgstr ""
+
+#: admin/options.php:224
+msgctxt "Icon name"
+msgid "Wrench"
+msgstr ""
+
+#: admin/options.php:225
+msgctxt "Icon name"
+msgid "Settings"
+msgstr ""
+
+#: admin/options.php:226
+msgctxt "Icon name"
+msgid "Equalizer"
+msgstr ""
+
+#: admin/options.php:227
+msgctxt "Icon name"
+msgid "Cog"
+msgstr ""
+
+#: admin/options.php:228
+msgctxt "Icon name"
+msgid "Cogs"
+msgstr ""
+
+#: admin/options.php:229
+msgctxt "Icon name"
+msgid "Cog2"
+msgstr ""
+
+#: admin/options.php:230
+msgctxt "Icon name"
+msgid "Hammer"
+msgstr ""
+
+#: admin/options.php:231
+msgctxt "Icon name"
+msgid "Wand"
+msgstr ""
+
+#: admin/options.php:232
+msgctxt "Icon name"
+msgid "Aid"
+msgstr ""
+
+#: admin/options.php:233
+msgctxt "Icon name"
+msgid "Bug"
+msgstr ""
+
+#: admin/options.php:234
+msgctxt "Icon name"
+msgid "Pie"
+msgstr ""
+
+#: admin/options.php:235
+msgctxt "Icon name"
+msgid "Stats"
+msgstr ""
+
+#: admin/options.php:236
+msgctxt "Icon name"
+msgid "Bars"
+msgstr ""
+
+#: admin/options.php:237
+msgctxt "Icon name"
+msgid "Bars2"
+msgstr ""
+
+#: admin/options.php:238
+msgctxt "Icon name"
+msgid "Gift"
+msgstr ""
+
+#: admin/options.php:239
+msgctxt "Icon name"
+msgid "Trophy"
+msgstr ""
+
+#: admin/options.php:240
+msgctxt "Icon name"
+msgid "Glass"
+msgstr ""
+
+#: admin/options.php:241
+msgctxt "Icon name"
+msgid "Mug"
+msgstr ""
+
+#: admin/options.php:242
+msgctxt "Icon name"
+msgid "Food"
+msgstr ""
+
+#: admin/options.php:243
+msgctxt "Icon name"
+msgid "Leaf"
+msgstr ""
+
+#: admin/options.php:244
+msgctxt "Icon name"
+msgid "Rocket"
+msgstr ""
+
+#: admin/options.php:245
+msgctxt "Icon name"
+msgid "Meter"
+msgstr ""
+
+#: admin/options.php:246
+msgctxt "Icon name"
+msgid "Meter2"
+msgstr ""
+
+#: admin/options.php:247
+msgctxt "Icon name"
+msgid "Dashboard"
+msgstr ""
+
+#: admin/options.php:248
+msgctxt "Icon name"
+msgid "Hammer2"
+msgstr ""
+
+#: admin/options.php:249
+msgctxt "Icon name"
+msgid "Fire"
+msgstr ""
+
+#: admin/options.php:250
+msgctxt "Icon name"
+msgid "Lab"
+msgstr ""
+
+#: admin/options.php:251
+msgctxt "Icon name"
+msgid "Magnet"
+msgstr ""
+
+#: admin/options.php:252
+msgctxt "Icon name"
+msgid "Remove"
+msgstr ""
+
+#: admin/options.php:253
+msgctxt "Icon name"
+msgid "Remove2"
+msgstr ""
+
+#: admin/options.php:254
+msgctxt "Icon name"
+msgid "Briefcase"
+msgstr ""
+
+#: admin/options.php:255
+msgctxt "Icon name"
+msgid "Airplane"
+msgstr ""
+
+#: admin/options.php:256
+msgctxt "Icon name"
+msgid "Truck"
+msgstr ""
+
+#: admin/options.php:257
+msgctxt "Icon name"
+msgid "Road"
+msgstr ""
+
+#: admin/options.php:258
+msgctxt "Icon name"
+msgid "Accessibility"
+msgstr ""
+
+#: admin/options.php:259
+msgctxt "Icon name"
+msgid "Target"
+msgstr ""
+
+#: admin/options.php:260
+msgctxt "Icon name"
+msgid "Shield"
+msgstr ""
+
+#: admin/options.php:261
+msgctxt "Icon name"
+msgid "Lightning"
+msgstr ""
+
+#: admin/options.php:262
+msgctxt "Icon name"
+msgid "Switch"
+msgstr ""
+
+#: admin/options.php:263
+msgctxt "Icon name"
+msgid "Power Cord"
+msgstr ""
+
+#: admin/options.php:264
+msgctxt "Icon name"
+msgid "Signup"
+msgstr ""
+
+#: admin/options.php:265
+msgctxt "Icon name"
+msgid "List"
+msgstr ""
+
+#: admin/options.php:266
+msgctxt "Icon name"
+msgid "List2"
+msgstr ""
+
+#: admin/options.php:267
+msgctxt "Icon name"
+msgid "Numbered List"
+msgstr ""
+
+#: admin/options.php:268
+msgctxt "Icon name"
+msgid "Menu"
+msgstr ""
+
+#: admin/options.php:269
+msgctxt "Icon name"
+msgid "Menu2"
+msgstr ""
+
+#: admin/options.php:270
+msgctxt "Icon name"
+msgid "Tree"
+msgstr ""
+
+#: admin/options.php:271
+msgctxt "Icon name"
+msgid "Cloud"
+msgstr ""
+
+#: admin/options.php:272
+msgctxt "Icon name"
+msgid "Cloud Download"
+msgstr ""
+
+#: admin/options.php:273
+msgctxt "Icon name"
+msgid "Cloud Upload"
+msgstr ""
+
+#: admin/options.php:274
+msgctxt "Icon name"
+msgid "Download2"
+msgstr ""
+
+#: admin/options.php:275
+msgctxt "Icon name"
+msgid "Upload2"
+msgstr ""
+
+#: admin/options.php:276
+msgctxt "Icon name"
+msgid "Download3"
+msgstr ""
+
+#: admin/options.php:277
+msgctxt "Icon name"
+msgid "Upload3"
+msgstr ""
+
+#: admin/options.php:278
+msgctxt "Icon name"
+msgid "Globe"
+msgstr ""
+
+#: admin/options.php:279
+msgctxt "Icon name"
+msgid "Earth"
+msgstr ""
+
+#: admin/options.php:280
+msgctxt "Icon name"
+msgid "Link"
+msgstr ""
+
+#: admin/options.php:281
+msgctxt "Icon name"
+msgid "Flag"
+msgstr ""
+
+#: admin/options.php:282
+msgctxt "Icon name"
+msgid "Attachment"
+msgstr ""
+
+#: admin/options.php:283
+msgctxt "Icon name"
+msgid "Eye"
+msgstr ""
+
+#: admin/options.php:284
+msgctxt "Icon name"
+msgid "Eye Blocked"
+msgstr ""
+
+#: admin/options.php:285
+msgctxt "Icon name"
+msgid "Eye2"
+msgstr ""
+
+#: admin/options.php:286
+msgctxt "Icon name"
+msgid "Bookmark"
+msgstr ""
+
+#: admin/options.php:287
+msgctxt "Icon name"
+msgid "Bookmarks"
+msgstr ""
+
+#: admin/options.php:288
+msgctxt "Icon name"
+msgid "Brightness Medium"
+msgstr ""
+
+#: admin/options.php:289
+msgctxt "Icon name"
+msgid "Brightness Contrast"
+msgstr ""
+
+#: admin/options.php:290
+msgctxt "Icon name"
+msgid "Contrast"
+msgstr ""
+
+#: admin/options.php:291
+msgctxt "Icon name"
+msgid "Star"
+msgstr ""
+
+#: admin/options.php:292
+msgctxt "Icon name"
+msgid "Star2"
+msgstr ""
+
+#: admin/options.php:293
+msgctxt "Icon name"
+msgid "Star3"
+msgstr ""
+
+#: admin/options.php:294
+msgctxt "Icon name"
+msgid "Heart"
+msgstr ""
+
+#: admin/options.php:295
+msgctxt "Icon name"
+msgid "Heart2"
+msgstr ""
+
+#: admin/options.php:296
+msgctxt "Icon name"
+msgid "Heart Broken"
+msgstr ""
+
+#: admin/options.php:297
+msgctxt "Icon name"
+msgid "Thumbs Up"
+msgstr ""
+
+#: admin/options.php:298
+msgctxt "Icon name"
+msgid "Thumbs Up2"
+msgstr ""
+
+#: admin/options.php:299
+msgctxt "Icon name"
+msgid "Happy"
+msgstr ""
+
+#: admin/options.php:300
+msgctxt "Icon name"
+msgid "Happy2"
+msgstr ""
+
+#: admin/options.php:301
+msgctxt "Icon name"
+msgid "Smiley"
+msgstr ""
+
+#: admin/options.php:302
+msgctxt "Icon name"
+msgid "Smiley2"
+msgstr ""
+
+#: admin/options.php:303
+msgctxt "Icon name"
+msgid "Tongue"
+msgstr ""
+
+#: admin/options.php:304
+msgctxt "Icon name"
+msgid "Tongue2"
+msgstr ""
+
+#: admin/options.php:305
+msgctxt "Icon name"
+msgid "Sad"
+msgstr ""
+
+#: admin/options.php:306
+msgctxt "Icon name"
+msgid "Sad2"
+msgstr ""
+
+#: admin/options.php:307
+msgctxt "Icon name"
+msgid "Wink"
+msgstr ""
+
+#: admin/options.php:308
+msgctxt "Icon name"
+msgid "Wink2"
+msgstr ""
+
+#: admin/options.php:309
+msgctxt "Icon name"
+msgid "Grin"
+msgstr ""
+
+#: admin/options.php:310
+msgctxt "Icon name"
+msgid "Grin2"
+msgstr ""
+
+#: admin/options.php:311
+msgctxt "Icon name"
+msgid "Cool"
+msgstr ""
+
+#: admin/options.php:312
+msgctxt "Icon name"
+msgid "Cool2"
+msgstr ""
+
+#: admin/options.php:313
+msgctxt "Icon name"
+msgid "Angry"
+msgstr ""
+
+#: admin/options.php:314
+msgctxt "Icon name"
+msgid "Angry2"
+msgstr ""
+
+#: admin/options.php:315
+msgctxt "Icon name"
+msgid "Evil"
+msgstr ""
+
+#: admin/options.php:316
+msgctxt "Icon name"
+msgid "Evil2"
+msgstr ""
+
+#: admin/options.php:317
+msgctxt "Icon name"
+msgid "Shocked"
+msgstr ""
+
+#: admin/options.php:318
+msgctxt "Icon name"
+msgid "Shocked2"
+msgstr ""
+
+#: admin/options.php:319
+msgctxt "Icon name"
+msgid "Confused"
+msgstr ""
+
+#: admin/options.php:320
+msgctxt "Icon name"
+msgid "Confused2"
+msgstr ""
+
+#: admin/options.php:321
+msgctxt "Icon name"
+msgid "Neutral"
+msgstr ""
+
+#: admin/options.php:322
+msgctxt "Icon name"
+msgid "Neutral2"
+msgstr ""
+
+#: admin/options.php:323
+msgctxt "Icon name"
+msgid "Wondering"
+msgstr ""
+
+#: admin/options.php:324
+msgctxt "Icon name"
+msgid "Wondering2"
+msgstr ""
+
+#: admin/options.php:325
+msgctxt "Icon name"
+msgid "Point Up"
+msgstr ""
+
+#: admin/options.php:326
+msgctxt "Icon name"
+msgid "Point Right"
+msgstr ""
+
+#: admin/options.php:327
+msgctxt "Icon name"
+msgid "Point Down"
+msgstr ""
+
+#: admin/options.php:328
+msgctxt "Icon name"
+msgid "Point Left"
+msgstr ""
+
+#: admin/options.php:329
+msgctxt "Icon name"
+msgid "Warning"
+msgstr ""
+
+#: admin/options.php:330
+msgctxt "Icon name"
+msgid "Notification"
+msgstr ""
+
+#: admin/options.php:331
+msgctxt "Icon name"
+msgid "Question"
+msgstr ""
+
+#: admin/options.php:332
+msgctxt "Icon name"
+msgid "Info"
+msgstr ""
+
+#: admin/options.php:333
+msgctxt "Icon name"
+msgid "Info2"
+msgstr ""
+
+#: admin/options.php:334
+msgctxt "Icon name"
+msgid "Blocked"
+msgstr ""
+
+#: admin/options.php:335
+msgctxt "Icon name"
+msgid "Cancel Circle"
+msgstr ""
+
+#: admin/options.php:336
+msgctxt "Icon name"
+msgid "Checkmark Circle"
+msgstr ""
+
+#: admin/options.php:337
+msgctxt "Icon name"
+msgid "Spam"
+msgstr ""
+
+#: admin/options.php:338
+msgctxt "Icon name"
+msgid "Close"
+msgstr ""
+
+#: admin/options.php:339
+msgctxt "Icon name"
+msgid "Checkmark"
+msgstr ""
+
+#: admin/options.php:340
+msgctxt "Icon name"
+msgid "Checkmark2"
+msgstr ""
+
+#: admin/options.php:341
+msgctxt "Icon name"
+msgid "Spell Check"
+msgstr ""
+
+#: admin/options.php:342
+msgctxt "Icon name"
+msgid "Minus"
+msgstr ""
+
+#: admin/options.php:343
+msgctxt "Icon name"
+msgid "Plus"
+msgstr ""
+
+#: admin/options.php:344
+msgctxt "Icon name"
+msgid "Enter"
+msgstr ""
+
+#: admin/options.php:345
+msgctxt "Icon name"
+msgid "Exit"
+msgstr ""
+
+#: admin/options.php:346
+msgctxt "Icon name"
+msgid "Play2"
+msgstr ""
+
+#: admin/options.php:347
+msgctxt "Icon name"
+msgid "Pause"
+msgstr ""
+
+#: admin/options.php:348
+msgctxt "Icon name"
+msgid "Stop"
+msgstr ""
+
+#: admin/options.php:349
+msgctxt "Icon name"
+msgid "Backward"
+msgstr ""
+
+#: admin/options.php:350
+msgctxt "Icon name"
+msgid "Forward2"
+msgstr ""
+
+#: admin/options.php:351
+msgctxt "Icon name"
+msgid "Play3"
+msgstr ""
+
+#: admin/options.php:352
+msgctxt "Icon name"
+msgid "Pause2"
+msgstr ""
+
+#: admin/options.php:353
+msgctxt "Icon name"
+msgid "Stop2"
+msgstr ""
+
+#: admin/options.php:354
+msgctxt "Icon name"
+msgid "Backward2"
+msgstr ""
+
+#: admin/options.php:355
+msgctxt "Icon name"
+msgid "Forward3"
+msgstr ""
+
+#: admin/options.php:356
+msgctxt "Icon name"
+msgid "First"
+msgstr ""
+
+#: admin/options.php:357
+msgctxt "Icon name"
+msgid "Last"
+msgstr ""
+
+#: admin/options.php:358
+msgctxt "Icon name"
+msgid "Previous"
+msgstr ""
+
+#: admin/options.php:359
+msgctxt "Icon name"
+msgid "Next"
+msgstr ""
+
+#: admin/options.php:360
+msgctxt "Icon name"
+msgid "Eject"
+msgstr ""
+
+#: admin/options.php:361
+msgctxt "Icon name"
+msgid "Volume High"
+msgstr ""
+
+#: admin/options.php:362
+msgctxt "Icon name"
+msgid "Volume Medium"
+msgstr ""
+
+#: admin/options.php:363
+msgctxt "Icon name"
+msgid "Volume Low"
+msgstr ""
+
+#: admin/options.php:364
+msgctxt "Icon name"
+msgid "Volume Mute"
+msgstr ""
+
+#: admin/options.php:365
+msgctxt "Icon name"
+msgid "Volume Mute2"
+msgstr ""
+
+#: admin/options.php:366
+msgctxt "Icon name"
+msgid "Volume Increase"
+msgstr ""
+
+#: admin/options.php:367
+msgctxt "Icon name"
+msgid "Volume Decrease"
+msgstr ""
+
+#: admin/options.php:368
+msgctxt "Icon name"
+msgid "Loop"
+msgstr ""
+
+#: admin/options.php:369
+msgctxt "Icon name"
+msgid "Loop2"
+msgstr ""
+
+#: admin/options.php:370
+msgctxt "Icon name"
+msgid "Loop3"
+msgstr ""
+
+#: admin/options.php:371
+msgctxt "Icon name"
+msgid "Shuffle"
+msgstr ""
+
+#: admin/options.php:372
+msgctxt "Icon name"
+msgid "Arrow Up Left"
+msgstr ""
+
+#: admin/options.php:373
+msgctxt "Icon name"
+msgid "Arrow Up"
+msgstr ""
+
+#: admin/options.php:374
+msgctxt "Icon name"
+msgid "Arrow Up Right"
+msgstr ""
+
+#: admin/options.php:375
+msgctxt "Icon name"
+msgid "Arrow Right"
+msgstr ""
+
+#: admin/options.php:376
+msgctxt "Icon name"
+msgid "Arrow Down Right"
+msgstr ""
+
+#: admin/options.php:377
+msgctxt "Icon name"
+msgid "Arrow Down"
+msgstr ""
+
+#: admin/options.php:378
+msgctxt "Icon name"
+msgid "Arrow Down Left"
+msgstr ""
+
+#: admin/options.php:379
+msgctxt "Icon name"
+msgid "Arrow Left"
+msgstr ""
+
+#: admin/options.php:380
+msgctxt "Icon name"
+msgid "Arrow Up Left2"
+msgstr ""
+
+#: admin/options.php:381
+msgctxt "Icon name"
+msgid "Arrow Up2"
+msgstr ""
+
+#: admin/options.php:382
+msgctxt "Icon name"
+msgid "Arrow Up Right2"
+msgstr ""
+
+#: admin/options.php:383
+msgctxt "Icon name"
+msgid "Arrow Right2"
+msgstr ""
+
+#: admin/options.php:384
+msgctxt "Icon name"
+msgid "Arrow Down Right2"
+msgstr ""
+
+#: admin/options.php:385
+msgctxt "Icon name"
+msgid "Arrow Down2"
+msgstr ""
+
+#: admin/options.php:386
+msgctxt "Icon name"
+msgid "Arrow Down Left2"
+msgstr ""
+
+#: admin/options.php:387
+msgctxt "Icon name"
+msgid "Arrow Left2"
+msgstr ""
+
+#: admin/options.php:388
+msgctxt "Icon name"
+msgid "Arrow Up Left3"
+msgstr ""
+
+#: admin/options.php:389
+msgctxt "Icon name"
+msgid "Arrow Up3"
+msgstr ""
+
+#: admin/options.php:390
+msgctxt "Icon name"
+msgid "Arrow Up Right3"
+msgstr ""
+
+#: admin/options.php:391
+msgctxt "Icon name"
+msgid "Arrow Right3"
+msgstr ""
+
+#: admin/options.php:392
+msgctxt "Icon name"
+msgid "Arrow Down Right3"
+msgstr ""
+
+#: admin/options.php:393
+msgctxt "Icon name"
+msgid "Arrow Down3"
+msgstr ""
+
+#: admin/options.php:394
+msgctxt "Icon name"
+msgid "Arrow Down Left3"
+msgstr ""
+
+#: admin/options.php:395
+msgctxt "Icon name"
+msgid "Arrow Left3"
+msgstr ""
+
+#: admin/options.php:396
+msgctxt "Icon name"
+msgid "Tab"
+msgstr ""
+
+#: admin/options.php:397
+msgctxt "Icon name"
+msgid "Checkbox Checked"
+msgstr ""
+
+#: admin/options.php:398
+msgctxt "Icon name"
+msgid "Checkbox Unchecked"
+msgstr ""
+
+#: admin/options.php:399
+msgctxt "Icon name"
+msgid "Checkbox Partial"
+msgstr ""
+
+#: admin/options.php:400
+msgctxt "Icon name"
+msgid "Radio Checked"
+msgstr ""
+
+#: admin/options.php:401
+msgctxt "Icon name"
+msgid "Radio Unchecked"
+msgstr ""
+
+#: admin/options.php:402
+msgctxt "Icon name"
+msgid "Crop"
+msgstr ""
+
+#: admin/options.php:403
+msgctxt "Icon name"
+msgid "Scissors"
+msgstr ""
+
+#: admin/options.php:404
+msgctxt "Icon name"
+msgid "Filter"
+msgstr ""
+
+#: admin/options.php:405
+msgctxt "Icon name"
+msgid "Filter2"
+msgstr ""
+
+#: admin/options.php:406
+msgctxt "Icon name"
+msgid "Font"
+msgstr ""
+
+#: admin/options.php:407
+msgctxt "Icon name"
+msgid "Text Height"
+msgstr ""
+
+#: admin/options.php:408
+msgctxt "Icon name"
+msgid "Text Width"
+msgstr ""
+
+#: admin/options.php:409
+msgctxt "Icon name"
+msgid "Bold"
+msgstr ""
+
+#: admin/options.php:410
+msgctxt "Icon name"
+msgid "Underline"
+msgstr ""
+
+#: admin/options.php:411
+msgctxt "Icon name"
+msgid "Italic"
+msgstr ""
+
+#: admin/options.php:412
+msgctxt "Icon name"
+msgid "Strikethrough"
+msgstr ""
+
+#: admin/options.php:413
+msgctxt "Icon name"
+msgid "Omega"
+msgstr ""
+
+#: admin/options.php:414
+msgctxt "Icon name"
+msgid "Sigma"
+msgstr ""
+
+#: admin/options.php:415
+msgctxt "Icon name"
+msgid "Table"
+msgstr ""
+
+#: admin/options.php:416
+msgctxt "Icon name"
+msgid "Table2"
+msgstr ""
+
+#: admin/options.php:417
+msgctxt "Icon name"
+msgid "Insert Template"
+msgstr ""
+
+#: admin/options.php:418
+msgctxt "Icon name"
+msgid "Pilcrow"
+msgstr ""
+
+#: admin/options.php:419
+msgctxt "Icon name"
+msgid "Left Toright"
+msgstr ""
+
+#: admin/options.php:420
+msgctxt "Icon name"
+msgid "Right Toleft"
+msgstr ""
+
+#: admin/options.php:421
+msgctxt "Icon name"
+msgid "Paragraph Left"
+msgstr ""
+
+#: admin/options.php:422
+msgctxt "Icon name"
+msgid "Paragraph Center"
+msgstr ""
+
+#: admin/options.php:423
+msgctxt "Icon name"
+msgid "Paragraph Right"
+msgstr ""
+
+#: admin/options.php:424
+msgctxt "Icon name"
+msgid "Paragraph Justify"
+msgstr ""
+
+#: admin/options.php:425
+msgctxt "Icon name"
+msgid "Paragraph Left2"
+msgstr ""
+
+#: admin/options.php:426
+msgctxt "Icon name"
+msgid "Paragraph Center2"
+msgstr ""
+
+#: admin/options.php:427
+msgctxt "Icon name"
+msgid "Paragraph Right2"
+msgstr ""
+
+#: admin/options.php:428
+msgctxt "Icon name"
+msgid "Paragraph Justify2"
+msgstr ""
+
+#: admin/options.php:429
+msgctxt "Icon name"
+msgid "Indent Increase"
+msgstr ""
+
+#: admin/options.php:430
+msgctxt "Icon name"
+msgid "Indent Decrease"
+msgstr ""
+
+#: admin/options.php:431
+msgctxt "Icon name"
+msgid "New Tab"
+msgstr ""
+
+#: admin/options.php:432
+msgctxt "Icon name"
+msgid "Embed"
+msgstr ""
+
+#: admin/options.php:433
+msgctxt "Icon name"
+msgid "Code"
+msgstr ""
+
+#: admin/options.php:434
+msgctxt "Icon name"
+msgid "Console"
+msgstr ""
+
+#: admin/options.php:435
+msgctxt "Icon name"
+msgid "Share"
+msgstr ""
+
+#: admin/options.php:436
+msgctxt "Icon name"
+msgid "Mail"
+msgstr ""
+
+#: admin/options.php:437
+msgctxt "Icon name"
+msgid "Mail2"
+msgstr ""
+
+#: admin/options.php:438
+msgctxt "Icon name"
+msgid "Mail3"
+msgstr ""
+
+#: admin/options.php:439
+msgctxt "Icon name"
+msgid "Mail4"
+msgstr ""
+
+#: admin/options.php:440
+msgctxt "Icon name"
+msgid "Google"
+msgstr ""
+
+#: admin/options.php:441
+msgctxt "Icon name"
+msgid "Google Plus"
+msgstr ""
+
+#: admin/options.php:442
+msgctxt "Icon name"
+msgid "Google Plus2"
+msgstr ""
+
+#: admin/options.php:443
+msgctxt "Icon name"
+msgid "Google Plus3"
+msgstr ""
+
+#: admin/options.php:444
+msgctxt "Icon name"
+msgid "Google Plus4"
+msgstr ""
+
+#: admin/options.php:445
+msgctxt "Icon name"
+msgid "Google Drive"
+msgstr ""
+
+#: admin/options.php:446
+msgctxt "Icon name"
+msgid "Facebook"
+msgstr ""
+
+#: admin/options.php:447
+msgctxt "Icon name"
+msgid "Facebook2"
+msgstr ""
+
+#: admin/options.php:448
+msgctxt "Icon name"
+msgid "Facebook3"
+msgstr ""
+
+#: admin/options.php:449
+msgctxt "Icon name"
+msgid "Instagram"
+msgstr ""
+
+#: admin/options.php:450
+msgctxt "Icon name"
+msgid "Twitter"
+msgstr ""
+
+#: admin/options.php:451
+msgctxt "Icon name"
+msgid "Twitter2"
+msgstr ""
+
+#: admin/options.php:452
+msgctxt "Icon name"
+msgid "Twitter3"
+msgstr ""
+
+#: admin/options.php:453
+msgctxt "Icon name"
+msgid "Feed2"
+msgstr ""
+
+#: admin/options.php:454
+msgctxt "Icon name"
+msgid "Feed3"
+msgstr ""
+
+#: admin/options.php:455
+msgctxt "Icon name"
+msgid "Feed4"
+msgstr ""
+
+#: admin/options.php:456
+msgctxt "Icon name"
+msgid "Youtube"
+msgstr ""
+
+#: admin/options.php:457
+msgctxt "Icon name"
+msgid "Youtube2"
+msgstr ""
+
+#: admin/options.php:458
+msgctxt "Icon name"
+msgid "Vimeo"
+msgstr ""
+
+#: admin/options.php:459
+msgctxt "Icon name"
+msgid "Vimeo2"
+msgstr ""
+
+#: admin/options.php:460
+msgctxt "Icon name"
+msgid "Vimeo3"
+msgstr ""
+
+#: admin/options.php:461
+msgctxt "Icon name"
+msgid "Lanyrd"
+msgstr ""
+
+#: admin/options.php:462
+msgctxt "Icon name"
+msgid "Flickr"
+msgstr ""
+
+#: admin/options.php:463
+msgctxt "Icon name"
+msgid "Flickr2"
+msgstr ""
+
+#: admin/options.php:464
+msgctxt "Icon name"
+msgid "Flickr3"
+msgstr ""
+
+#: admin/options.php:465
+msgctxt "Icon name"
+msgid "Flickr4"
+msgstr ""
+
+#: admin/options.php:466
+msgctxt "Icon name"
+msgid "Picasa"
+msgstr ""
+
+#: admin/options.php:467
+msgctxt "Icon name"
+msgid "Picasa2"
+msgstr ""
+
+#: admin/options.php:468
+msgctxt "Icon name"
+msgid "Dribbble"
+msgstr ""
+
+#: admin/options.php:469
+msgctxt "Icon name"
+msgid "Dribbble2"
+msgstr ""
+
+#: admin/options.php:470
+msgctxt "Icon name"
+msgid "Dribbble3"
+msgstr ""
+
+#: admin/options.php:471
+msgctxt "Icon name"
+msgid "Forrst"
+msgstr ""
+
+#: admin/options.php:472
+msgctxt "Icon name"
+msgid "Forrst2"
+msgstr ""
+
+#: admin/options.php:473
+msgctxt "Icon name"
+msgid "Deviantart"
+msgstr ""
+
+#: admin/options.php:474
+msgctxt "Icon name"
+msgid "Deviantart2"
+msgstr ""
+
+#: admin/options.php:475
+msgctxt "Icon name"
+msgid "Steam"
+msgstr ""
+
+#: admin/options.php:476
+msgctxt "Icon name"
+msgid "Steam2"
+msgstr ""
+
+#: admin/options.php:477
+msgctxt "Icon name"
+msgid "Github"
+msgstr ""
+
+#: admin/options.php:478
+msgctxt "Icon name"
+msgid "Github2"
+msgstr ""
+
+#: admin/options.php:479
+msgctxt "Icon name"
+msgid "Github3"
+msgstr ""
+
+#: admin/options.php:480
+msgctxt "Icon name"
+msgid "Github4"
+msgstr ""
+
+#: admin/options.php:481
+msgctxt "Icon name"
+msgid "Github5"
+msgstr ""
+
+#: admin/options.php:482
+msgctxt "Icon name"
+msgid "Wordpress"
+msgstr ""
+
+#: admin/options.php:483
+msgctxt "Icon name"
+msgid "Wordpress2"
+msgstr ""
+
+#: admin/options.php:484
+msgctxt "Icon name"
+msgid "Joomla"
+msgstr ""
+
+#: admin/options.php:485
+msgctxt "Icon name"
+msgid "Blogger"
+msgstr ""
+
+#: admin/options.php:486
+msgctxt "Icon name"
+msgid "Blogger2"
+msgstr ""
+
+#: admin/options.php:487
+msgctxt "Icon name"
+msgid "Tumblr"
+msgstr ""
+
+#: admin/options.php:488
+msgctxt "Icon name"
+msgid "Tumblr2"
+msgstr ""
+
+#: admin/options.php:489
+msgctxt "Icon name"
+msgid "Yahoo"
+msgstr ""
+
+#: admin/options.php:490
+msgctxt "Icon name"
+msgid "Tux"
+msgstr ""
+
+#: admin/options.php:491
+msgctxt "Icon name"
+msgid "Apple"
+msgstr ""
+
+#: admin/options.php:492
+msgctxt "Icon name"
+msgid "Finder"
+msgstr ""
+
+#: admin/options.php:493
+msgctxt "Icon name"
+msgid "Android"
+msgstr ""
+
+#: admin/options.php:494
+msgctxt "Icon name"
+msgid "Windows"
+msgstr ""
+
+#: admin/options.php:495
+msgctxt "Icon name"
+msgid "Windows8"
+msgstr ""
+
+#: admin/options.php:496
+msgctxt "Icon name"
+msgid "Soundcloud"
+msgstr ""
+
+#: admin/options.php:497
+msgctxt "Icon name"
+msgid "Soundcloud2"
+msgstr ""
+
+#: admin/options.php:498
+msgctxt "Icon name"
+msgid "Skype"
+msgstr ""
+
+#: admin/options.php:499
+msgctxt "Icon name"
+msgid "Reddit"
+msgstr ""
+
+#: admin/options.php:500
+msgctxt "Icon name"
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options.php:501
+msgctxt "Icon name"
+msgid "Lastfm"
+msgstr ""
+
+#: admin/options.php:502
+msgctxt "Icon name"
+msgid "Lastfm2"
+msgstr ""
+
+#: admin/options.php:503
+msgctxt "Icon name"
+msgid "Delicious"
+msgstr ""
+
+#: admin/options.php:504
+msgctxt "Icon name"
+msgid "Stumbleupon"
+msgstr ""
+
+#: admin/options.php:505
+msgctxt "Icon name"
+msgid "Stumbleupon2"
+msgstr ""
+
+#: admin/options.php:506
+msgctxt "Icon name"
+msgid "Stackoverflow"
+msgstr ""
+
+#: admin/options.php:507
+msgctxt "Icon name"
+msgid "Pinterest"
+msgstr ""
+
+#: admin/options.php:508
+msgctxt "Icon name"
+msgid "Pinterest2"
+msgstr ""
+
+#: admin/options.php:509
+msgctxt "Icon name"
+msgid "Xing"
+msgstr ""
+
+#: admin/options.php:510
+msgctxt "Icon name"
+msgid "Xing2"
+msgstr ""
+
+#: admin/options.php:511
+msgctxt "Icon name"
+msgid "Flattr"
+msgstr ""
+
+#: admin/options.php:512
+msgctxt "Icon name"
+msgid "Foursquare"
+msgstr ""
+
+#: admin/options.php:513
+msgctxt "Icon name"
+msgid "Foursquare2"
+msgstr ""
+
+#: admin/options.php:514
+msgctxt "Icon name"
+msgid "Paypal"
+msgstr ""
+
+#: admin/options.php:515
+msgctxt "Icon name"
+msgid "Paypal2"
+msgstr ""
+
+#: admin/options.php:516
+msgctxt "Icon name"
+msgid "Paypal3"
+msgstr ""
+
+#: admin/options.php:517
+msgctxt "Icon name"
+msgid "Yelp"
+msgstr ""
+
+#: admin/options.php:518
+msgctxt "Icon name"
+msgid "Libreoffice"
+msgstr ""
+
+#: admin/options.php:519
+msgctxt "Icon name"
+msgid "File Pdf"
+msgstr ""
+
+#: admin/options.php:520
+msgctxt "Icon name"
+msgid "File Openoffice"
+msgstr ""
+
+#: admin/options.php:521
+msgctxt "Icon name"
+msgid "File Word"
+msgstr ""
+
+#: admin/options.php:522
+msgctxt "Icon name"
+msgid "File Excel"
+msgstr ""
+
+#: admin/options.php:523
+msgctxt "Icon name"
+msgid "File Zip"
+msgstr ""
+
+#: admin/options.php:524
+msgctxt "Icon name"
+msgid "File Powerpoint"
+msgstr ""
+
+#: admin/options.php:525
+msgctxt "Icon name"
+msgid "File Xml"
+msgstr ""
+
+#: admin/options.php:526
+msgctxt "Icon name"
+msgid "File Css"
+msgstr ""
+
+#: admin/options.php:527
+msgctxt "Icon name"
+msgid "Html5"
+msgstr ""
+
+#: admin/options.php:528
+msgctxt "Icon name"
+msgid "Html52"
+msgstr ""
+
+#: admin/options.php:529
+msgctxt "Icon name"
+msgid "Css3"
+msgstr ""
+
+#: admin/options.php:530
+msgctxt "Icon name"
+msgid "Chrome"
+msgstr ""
+
+#: admin/options.php:531
+msgctxt "Icon name"
+msgid "Firefox"
+msgstr ""
+
+#: admin/options.php:532
+msgctxt "Icon name"
+msgid "IE"
+msgstr ""
+
+#: admin/options.php:533
+msgctxt "Icon name"
+msgid "Opera"
+msgstr ""
+
+#: admin/options.php:534
+msgctxt "Icon name"
+msgid "Safari"
+msgstr ""
+
+#: admin/options.php:535
+msgctxt "Icon name"
+msgid "Icomoon"
+msgstr ""
+
+#: admin/options.php:558
+msgid "About"
+msgstr ""
+
+#: admin/options.php:565
+msgid "About this Theme"
+msgstr ""
+
+#: admin/options.php:566
+msgid ""
+"<p>This is a highly customizable, clean, modern, and responsive WordPress "
+"theme. Originally developed plugins are included enabling higher usability "
+"and easier production of stylish site and customization. This theme can be "
+"used for wide variation from private to business use.</"
+"p><p><strong>Features</strong></p><ul><li>Responsive</li><li>Easy web "
+"advertisement settings</li><li>Portfolio</li><li>Icon menu</li><li>Easy "
+"tracking code &amp; Web mastertool settings</li><li>Color customization</"
+"li><li>Web fonts &amp; icon fonts</li><li>Wide variety of theme layouts</"
+"li><li>Social settings</li><li>Stylish slider &quot;GMO Showtime&quot; "
+"Plugin</li></ul>"
+msgstr ""
+
+#: admin/options.php:573
+msgid "About WP Shop"
+msgstr ""
+
+#: admin/options.php:574
+msgid ""
+"<p class=\"about-photo\"><img src=\"%1$s\" alt=\"*\"></p><p>A whole new "
+"social marketplace for trading high quality WordPress themes, while "
+"providing a platform to showcase and share beautiful designs that are "
+"originated in Asia</p><p class=\"shop_link\"><a href=\"https://wpshop.com/"
+"signup\" target=\"_blank\" class=\"shop_btn\"><span class=\"shop_name\">Join "
+"WP Shop</span><span class=\"shop_dec\">Starting from $0 / theme</span></a></"
+"p>"
+msgstr ""
+
+#: admin/options.php:581
+msgid "WP Shop Headline News"
+msgstr ""
+
+#: admin/options.php:590
+msgid "What's happennig at WordPress?"
+msgstr ""
+
+#: admin/options.php:602
+msgid "General Settings"
+msgstr ""
+
+#: admin/options.php:608 inc/customizer.php:208
+msgid "Show Header Logo"
+msgstr ""
+
+#: admin/options.php:616 inc/customizer.php:226
+msgid "Header Logo Image"
+msgstr ""
+
+#: admin/options.php:624 inc/customizer.php:238
+msgid "Favicon"
+msgstr ""
+
+#: admin/options.php:632
+msgid "Site Title"
+msgstr ""
+
+#: admin/options.php:640
+msgid "Tagline"
+msgstr ""
+
+#: admin/options.php:648 inc/customizer.php:156
+msgid "Show Header Text"
+msgstr ""
+
+#: admin/options.php:656 inc/customizer.php:174
+msgid "Header Text"
+msgstr ""
+
+#: admin/options.php:664
+msgid "About Us Text"
+msgstr ""
+
+#: admin/options.php:665
+msgid "About Us Widget Text"
+msgstr ""
+
+#: admin/options.php:672 inc/customizer.php:187
+msgid "Copyright"
+msgstr ""
+
+#: admin/options.php:682
+msgid "Color Settings"
+msgstr ""
+
+#: admin/options.php:688 inc/customizer.php:248
+msgid "Header Color Settings"
+msgstr ""
+
+#: admin/options.php:693 inc/customizer.php:260
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/options.php:702 inc/customizer.php:274
+msgid "Header Text Color"
+msgstr ""
+
+#: admin/options.php:711 inc/customizer.php:288
+msgid "Header Anchor Color"
+msgstr ""
+
+#: admin/options.php:720 inc/customizer.php:302
+msgid "Header Border Color"
+msgstr ""
+
+#: admin/options.php:729 inc/customizer.php:316
+msgid "Header Widget Background Color"
+msgstr ""
+
+#: admin/options.php:738 inc/customizer.php:330
+msgid "Header Widget Text Color"
+msgstr ""
+
+#: admin/options.php:747 inc/customizer.php:344
+msgid "Header Widget Anchor Color"
+msgstr ""
+
+#: admin/options.php:756 inc/customizer.php:354
+msgid "Main Color Settings"
+msgstr ""
+
+#: admin/options.php:761
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/options.php:770 inc/customizer.php:366
+msgid "Main Background Color"
+msgstr ""
+
+#: admin/options.php:779 inc/customizer.php:380
+msgid "Main Text Color"
+msgstr ""
+
+#: admin/options.php:788 inc/customizer.php:394
+msgid "Main Anchor Color"
+msgstr ""
+
+#: admin/options.php:797 inc/customizer.php:408
+msgid "Main Border Color"
+msgstr ""
+
+#: admin/options.php:806
+msgid "Image Hover Settings"
+msgstr ""
+
+#: admin/options.php:811 inc/customizer.php:422
+msgid "Image Hover Color"
+msgstr ""
+
+#: admin/options.php:820 inc/customizer.php:435
+msgid "Image Hover Opacity"
+msgstr ""
+
+#: admin/options.php:840 inc/customizer.php:461
+msgid "Widget Color Settings"
+msgstr ""
+
+#: admin/options.php:845 inc/customizer.php:473
+msgid "Widget Background Color"
+msgstr ""
+
+#: admin/options.php:854 inc/customizer.php:487
+msgid "Widget Title Color"
+msgstr ""
+
+#: admin/options.php:863 inc/customizer.php:501
+msgid "Widget Text Color"
+msgstr ""
+
+#: admin/options.php:872 inc/customizer.php:515
+msgid "Widget Anchor Color"
+msgstr ""
+
+#: admin/options.php:881 inc/customizer.php:529
+msgid "Widget Border Color"
+msgstr ""
+
+#: admin/options.php:890 inc/customizer.php:539
+msgid "Footer Color Settings"
+msgstr ""
+
+#: admin/options.php:895 inc/customizer.php:551
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/options.php:904 inc/customizer.php:565
+msgid "Footer Title Color"
+msgstr ""
+
+#: admin/options.php:913 inc/customizer.php:579
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/options.php:922 inc/customizer.php:593
+msgid "Footer Anchor Color"
+msgstr ""
+
+#: admin/options.php:931 inc/customizer.php:607
+msgid "Footer Border Color"
+msgstr ""
+
+#: admin/options.php:940 inc/customizer.php:621
+msgid "All Categories Background Color"
+msgstr ""
+
+#: admin/options.php:949 inc/customizer.php:635
+msgid "All Categories Title Color"
+msgstr ""
+
+#: admin/options.php:969 inc/customizer.php:649
+msgid "All Categories Anchor Color"
+msgstr ""
+
+#: admin/options.php:978 inc/customizer.php:663
+msgid "All Categories Border Color"
+msgstr ""
+
+#: admin/options.php:987 inc/customizer.php:677
+msgid "Copyright Background Color"
+msgstr ""
+
+#: admin/options.php:996 inc/customizer.php:691
+msgid "Copyright Text Color"
+msgstr ""
+
+#: admin/options.php:1007
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/options.php:1013
+msgid "Responsive"
+msgstr ""
+
+#: admin/options.php:1022
+msgid "Home"
+msgstr ""
+
+#: admin/options.php:1023
+msgid "All Blog"
+msgstr ""
+
+#: admin/options.php:1024
+msgid "All Portfolio"
+msgstr ""
+
+#: admin/options.php:1025
+msgid "Archive and Search Results"
+msgstr ""
+
+#: admin/options.php:1026 admin/options.php:1177 admin/options.php:1291
+#: admin/options.php:1379
+msgid "Posts"
+msgstr ""
+
+#: admin/options.php:1027
+msgid "Pages"
+msgstr ""
+
+#: admin/options.php:1028 inc/widgets.php:111
+msgid "Contact"
+msgstr ""
+
+#: admin/options.php:1044 admin/options.php:1136 admin/options.php:1364
+#: admin/options.php:1451 admin/options.php:1526 admin/options.php:1552
+msgid "Select Layout"
+msgstr ""
+
+#: admin/options.php:1057
+msgid "Blog Area"
+msgstr ""
+
+#: admin/options.php:1063
+msgid "Number of Blog Posts on Home Page"
+msgstr ""
+
+#: admin/options.php:1070 admin/options.php:1107 admin/options.php:1297
+#: admin/options.php:1603 admin/options.php:1622 admin/options.php:1680
+msgid "Title"
+msgstr ""
+
+#: admin/options.php:1072
+msgid "Blog"
+msgstr ""
+
+#: admin/options.php:1076 admin/options.php:1113 admin/options.php:1189
+#: admin/options.php:1303 admin/options.php:1391 admin/options.php:1407
+#: admin/options.php:1476 admin/options.php:1574 admin/options.php:1709
+msgid "Icon"
+msgstr ""
+
+#: admin/options.php:1085
+msgid "Portfolio Area"
+msgstr ""
+
+#: admin/options.php:1091 admin/options.php:1149 admin/options.php:1252
+msgid "Columns"
+msgstr ""
+
+#: admin/options.php:1100
+msgid "Number of Portfolios on Home Page"
+msgstr ""
+
+#: admin/options.php:1109 admin/options.php:1299 front-page.php:86
+#: inc/extras.php:97 inc/extras.php:112 inc/template-tags.php:256
+#: single.php:16 taxonomy-post_format-post-format-gallery.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: admin/options.php:1163 admin/options.php:1464
+msgid "Text Location"
+msgstr ""
+
+#: admin/options.php:1164
+msgid "Right text location is 1colum only."
+msgstr ""
+
+#: admin/options.php:1175 admin/options.php:1377
+msgid "Blog Pages Show at Most"
+msgstr ""
+
+#: admin/options.php:1183 admin/options.php:1385
+msgid "Archive Title"
+msgstr ""
+
+#: admin/options.php:1185 admin/options.php:1387 archive.php:11 home.php:11
+#: index.php:15
+msgid "Blog Archive"
+msgstr ""
+
+#: admin/options.php:1198 admin/options.php:1312 admin/options.php:1485
+msgid "Show Date"
+msgstr ""
+
+#: admin/options.php:1205 admin/options.php:1319 admin/options.php:1492
+msgid "Show Author"
+msgstr ""
+
+#: admin/options.php:1212 admin/options.php:1326 admin/options.php:1499
+msgid "Show Categories"
+msgstr ""
+
+#: admin/options.php:1219 admin/options.php:1333 admin/options.php:1506
+msgid "Show Tags"
+msgstr ""
+
+#: admin/options.php:1239
+msgid "Archive Layout"
+msgstr ""
+
+#: admin/options.php:1266
+msgid "Select a Pattern"
+msgstr ""
+
+#: admin/options.php:1278
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/options.php:1283
+msgid "Only image"
+msgstr ""
+
+#: admin/options.php:1284
+msgid "Image with title"
+msgstr ""
+
+#: admin/options.php:1285
+msgid "Image with title and text"
+msgstr ""
+
+#: admin/options.php:1289
+msgid "Portfolio Pages Show at Most"
+msgstr ""
+
+#: admin/options.php:1340
+msgid "Single Posts Navigation"
+msgstr ""
+
+#: admin/options.php:1345
+msgid "Top"
+msgstr ""
+
+#: admin/options.php:1346
+msgid "Bottom"
+msgstr ""
+
+#: admin/options.php:1400
+msgid "Search Result Title"
+msgstr ""
+
+#: admin/options.php:1402
+msgid "%s : Search keywords."
+msgstr ""
+
+#: admin/options.php:1403 search.php:9
+msgid "Search Results for: %s"
+msgstr ""
+
+#: admin/options.php:1416
+msgid "Description Background Color"
+msgstr ""
+
+#: admin/options.php:1423
+msgid "Description Text Color"
+msgstr ""
+
+#: admin/options.php:1430
+msgid "Description Anchor Color"
+msgstr ""
+
+#: admin/options.php:1553
+msgid "A = Page Content Area"
+msgstr ""
+
+#: admin/options.php:1567
+msgid "Page Title"
+msgstr ""
+
+#: admin/options.php:1597
+msgid "Area B"
+msgstr ""
+
+#: admin/options.php:1609 admin/options.php:1628
+msgid "Body"
+msgstr ""
+
+#: admin/options.php:1616
+msgid "Area C"
+msgstr ""
+
+#: admin/options.php:1644
+msgid "Merit Box Settings"
+msgstr ""
+
+#: admin/options.php:1649
+msgid "Show Merit Box"
+msgstr ""
+
+#: admin/options.php:1656
+msgid "Number of Boxes to Show"
+msgstr ""
+
+#: admin/options.php:1657
+msgid "Default:4, Min:1, Max:4."
+msgstr ""
+
+#: admin/options.php:1674
+msgid "Merit Box %s"
+msgstr ""
+
+#: admin/options.php:1687
+msgid "Text"
+msgstr ""
+
+#: admin/options.php:1695
+msgid "Text Alignment"
+msgstr ""
+
+#: admin/options.php:1702
+msgid "Left"
+msgstr ""
+
+#: admin/options.php:1703
+msgid "Center"
+msgstr ""
+
+#: admin/options.php:1704
+msgid "Right"
+msgstr ""
+
+#: admin/options.php:1719
+msgid "Icon Color"
+msgstr ""
+
+#: admin/options.php:1728
+msgid "Image"
+msgstr ""
+
+#: admin/options.php:1729
+msgid "Image will override the icons. Minimum width: 580px"
+msgstr ""
+
+#: admin/options.php:1735
+msgid "URL"
+msgstr ""
+
+#: admin/options.php:1746
+msgid "Social Settings"
+msgstr ""
+
+#: admin/options.php:1751
+msgid "Social Icon Settings"
+msgstr ""
+
+#: admin/options.php:1758
+msgid "Frames"
+msgstr ""
+
+#: admin/options.php:1765
+msgid "Header Icon Color"
+msgstr ""
+
+#: admin/options.php:1772
+msgid "Footer Icon Color"
+msgstr ""
+
+#: admin/options.php:1779
+msgid "Show Icons"
+msgstr ""
+
+#: admin/options.php:1786
+msgid "Header"
+msgstr ""
+
+#: admin/options.php:1793
+msgid "Footer"
+msgstr ""
+
+#: admin/options.php:1800
+msgid "Social Media Accounts and Email Address"
+msgstr ""
+
+#: admin/options.php:1807
+msgid "E-mail"
+msgstr ""
+
+#: admin/options.php:1808
+msgid "Your E-mail address."
+msgstr ""
+
+#: admin/options.php:1818
+msgid "%s URL"
+msgstr ""
+
+#: archive.php:24
+msgid "Category: %s"
+msgstr ""
+
+#: archive.php:27
+msgid "Tag: %s"
+msgstr ""
+
+#: archive.php:34
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:42
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:45
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:45
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:48
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:48
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:51
+msgid "Post format: %s"
+msgstr ""
+
+#: archive.php:54
+msgid "Archives"
+msgstr ""
+
+#: categorylist.php:9
+msgid "All Categories"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "Send"
+msgstr ""
+
+#: content-blog.php:32 content-home.php:34 content.php:28 meritbox.php:44
+msgid "Read More"
+msgstr ""
+
+#: content-blog.php:44 content-gallery.php:59 content-home.php:52
+#: content-page.php:35 content-portfolio.php:62 content-single.php:39
+#: content.php:39 inc/template-tags.php:154 inc/template-tags.php:176
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-home.php:45 content-portfolio.php:55 content-single.php:32
+msgid ", "
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:29 content-portfolio.php:74 content-single.php:50
+msgid "Pages:"
+msgstr ""
+
+#: front-page.php:38
+msgctxt "Front page"
+msgid "Blog"
+msgstr ""
+
+#: functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:90
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:106
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:122
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:47
+msgid "Social"
+msgstr ""
+
+#: header.php:65
+msgid "Menu"
+msgstr ""
+
+#: header.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:73 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Logo settings"
+msgstr ""
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Previous Page"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Next Page"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:127
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:128
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:183
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Reply"
+msgstr ""
+
+#: inc/widgets.php:27
+msgid "About Us (Tidy)"
+msgstr ""
+
+#: inc/widgets.php:45
+msgid "About Us"
+msgstr ""
+
+#: inc/widgets.php:48
+msgid "Sample text."
+msgstr ""
+
+#: inc/widgets.php:93
+msgid "Contact (Tidy)"
+msgstr ""
+
+#: inc/widgets.php:95
+msgid "E-mail and SNS acounts."
+msgstr ""
+
+#: inc/widgets.php:144 inc/widgets.php:278
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:148
+msgid "E-mail:"
+msgstr ""
+
+#: inc/widgets.php:185
+msgid "Recent Posts (Tidy)"
+msgstr ""
+
+#: inc/widgets.php:187
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: inc/widgets.php:221
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:282
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:287
+msgid "Show post title?"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Type and hit enter &hellip;"
+msgstr ""
+
+#: sidebar.php:19
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:30
+msgid "Meta"
+msgstr ""
+
+#. #-#-#-#-#  tidy.pot (Tidy 1.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+msgid "Tidy"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The multi-purpose WordPress theme with ultimate simplicity. The theme is "
+"fully customizable, responsive and flexible with full of revolutionary "
+"functions. Contents can turned on and off as desired, and a wide variety of "
+"layout options to help you build a satisfactory website. The theme comes "
+"standard with the original slider, social media integration, Google "
+"advertisement & stats plugins along with the web font support with full "
+"color customization for enhanced flexibility."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Shop byGMO"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wpshop.com"
+msgstr ""

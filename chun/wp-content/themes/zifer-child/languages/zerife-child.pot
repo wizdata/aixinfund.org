@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zifer Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-16 16:36:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: codeinwp <support@codeinwp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: content-single.php:1
+#@ zifer-child
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:1
+#@ zifer-child
+msgid "Edit"
+msgstr ""
+
+#: functions.php:233
+#: functions.php:242
+#@ zifer-child
+msgid "Background"
+msgstr ""
+
+#: functions.php:251
+#: functions.php:304
+#@ zifer-child
+msgid "Text"
+msgstr ""
+
+#: functions.php:259
+#: sections/big_title.php:1
+#@ zifer-child
+msgid "First button"
+msgstr ""
+
+#: functions.php:261
+#@ zifer-child
+msgid "Blue button label"
+msgstr ""
+
+#: functions.php:269
+#@ zifer-child
+msgid "Blue button link"
+msgstr ""
+
+#: functions.php:277
+#@ zifer-child
+msgid "About section"
+msgstr ""
+
+#: functions.php:294
+#@ zifer-child
+msgid "About the author "
+msgstr ""
+
+#: functions.php:296
+#: functions.php:329
+#@ zifer-child
+msgid "Title"
+msgstr ""
+
+#: functions.php:312
+#@ zifer-child
+msgid "Custom category section"
+msgstr ""
+
+#: functions.php:327
+#@ zifer-child
+msgid "Featured posts"
+msgstr ""
+
+#: functions.php:372
+#@ zifer-child
+msgid "Category"
+msgstr ""
+
+#: functions.php:385
+#@ zifer-child
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:463
+#@ zifer-child
+msgid ", "
+msgstr ""
+
+#: functions.php:465
+#, php-format
+#@ zifer-child
+msgid "<span class=\"byline\"> by %2$s</span><span class=\"posted-on\"> on %1$s</span><span class=\"category-of\"> in %3$s</span>"
+msgstr ""
+
+#: sections/about.php:16
+#@ zifer-child
+msgid "About"
+msgstr ""
+
+#: sections/about.php:28
+#@ zifer-child
+msgid "Add a text in Customizer, \"About section\""
+msgstr ""
+
+#: sections/big_title.php:1
+#@ zifer-child
+msgid "To add a title here please go to Customizer"
+msgstr ""
+
+#: sections/big_title.php:1
+#@ zifer-child
+msgid "To add a text here please go to Customizer"
+msgstr ""
+
+#: sections/category_posts.php:15
+#@ zifer-child
+msgid "Custom Category"
+msgstr ""
+
+#: sections/category_posts.php:63
+#@ zifer-child
+msgid "Select category from \"Custom Category section\""
+msgstr ""
+
+#: sections/latest_news.php:32
+#@ zifer-child
+msgid "Latest news"
+msgstr ""
+

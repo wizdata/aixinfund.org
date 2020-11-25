@@ -1,0 +1,33 @@
+#ticker-wrapper h3 {
+	background-color: green;
+}
+#ticker-wrapper #random-article a {
+	background-color: green;
+}
+
+	.ss1_wrapper a.slideshow_prev { 
+		background:url(../images/trans-green-70.png); 
+	}
+		.ss1_wrapper a.slideshow_prev:hover { 
+			background:green; 
+		}
+
+
+	.ss1_wrapper a.slideshow_next { 
+		background:url(../images/trans-green-70.png);
+	}
+		.ss1_wrapper a.slideshow_next:hover { 
+			background:green; 
+		}
+
+		.ss1_wrapper .slideshow_paging a { 
+			background:url(../images/ss-green-bullet.png) no-repeat center; 
+		}
+			.ss1_wrapper .slideshow_paging a.activeSlide { 
+				color: green; 
+				background:url(../images/ss-green-bullet-selected.png) center center no-repeat;
+			}
+
+		.ss1_wrapper .slideshow_box .data {
+			background:url(../images/trans-green-70.png); 
+		}

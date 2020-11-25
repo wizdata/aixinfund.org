@@ -1,0 +1,21 @@
+﻿# $Id: htaccess.txt,v 1.10 2003/12/22 10:37:29 rcastley Exp $
+#
+# htaccess file for SEF
+
+#
+#  mod_rewrite in use
+#
+
+#  RewriteEngine On
+
+#  Uncomment following line if your webserver's URL 
+#  is not directly related to physival file paths.
+#  Update YourMamboDirectory (just / for root)
+
+# RewriteBase /AixinFund.Org
+
+#
+#  Rules
+#
+
+DirectoryIndex index.htm

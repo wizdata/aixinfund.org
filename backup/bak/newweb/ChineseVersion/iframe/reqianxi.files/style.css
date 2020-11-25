@@ -1,0 +1,15 @@
+TD {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: verdana, helvetica, arial
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff3333; TEXT-DECORATION: underline
+}

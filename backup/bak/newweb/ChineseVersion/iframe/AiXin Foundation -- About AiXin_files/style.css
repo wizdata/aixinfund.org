@@ -1,0 +1,23 @@
+TD {font-family:verdana, helvetica, arial; font-size: 8pt; color: #000000}
+
+A:link	{	
+	text-decoration:	none;
+	color:	#000000;
+	}	
+		
+A:visited	{	
+	text-decoration:	none;
+	color:	#000000;
+	}	
+		
+A:active	{	
+	text-decoration:	none;
+	color:	#000000;
+	}	
+		
+A:hover	{	
+	text-decoration:	underline;
+	color:	#FF3333;
+	}
+
+

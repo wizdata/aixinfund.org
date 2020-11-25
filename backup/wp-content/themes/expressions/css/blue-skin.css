@@ -1,0 +1,384 @@
+/**
+ * This is the basic css file for the Blue Skin
+ * 
+ *
+ * @package		Expressions WordPress Theme
+ * @copyright	Copyright (c) 2013, Kevin Archibald
+ * @license		http://www.gnu.org/licenses/quick-guide-gplv3.html  GNU Public License
+ * @author		Kevin Archibald <www.kevinsspace.ca/contact/>
+ *
+ * ====================================================================================== */
+
+/* -------------------- Main Body color and font- size ---------------------------------- */
+body {
+	color: #6C6F70; /* This is the basic font color */
+	font-size: 100%; /* all theme fonts are scaled from this size - 100% is 16px */
+}
+
+/* ================================================================== *
+ *                   Layout Styles                                    *
+ * ================================================================== */
+
+/* ------------- Header Styles -------------------------------------- */
+header {background: #FFFFFF;}
+
+#header-wrap {background: #FFFFFF;}
+
+.blog-title-center-2 h1 a {color: #6C6F70;}
+
+.blog-title-center-2 h1 a:hover {color: #447BCE;}
+
+.blog-title-center h1 a {color: #6C6F70;}
+
+.blog-title-center h1 a:hover {color: #447BCE;}
+
+/* ------------- Nav Styles -------------------------------------- */
+.thin-border {border-top: 1px solid #E8ECF2;}
+
+#main-menu-center-border {
+	border-top: 1px solid #E8ECF2;
+	border-bottom:	1px solid #E8ECF2;
+}
+
+/* ------------- Superfish Nav Styles ----------------------------- */
+.sf-menu a {color: #6C6F70;}
+
+.sf-menu li {background: #FFFFFF;}
+
+.sf-menu ul li {background:	#E2EBFF;}
+
+.sf-menu ul ul li {background: #F2F6FF;}
+
+.sf-menu li:hover, .sf-menu li.sfHover { background: #CCDBFF; }
+
+/* -------------------- Footer Styles ------------------------------ */
+
+footer {
+	background-color: #5370B2;
+	background-image: -webkit-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -moz-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -ms-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	color: #F9F9F9;
+}
+
+footer a {color: #F9F9F9;}
+
+footer a:hover {
+	font-weight: bold;
+	color:#F9F9F9;
+}
+
+#footer-wrap {background-color: transparent;}
+
+#copyright {
+	background-color: #ffffff;
+}
+
+#copyright-wrap {background-color: #ffffff;/* #CEE7ED */}
+
+/*  ----------- Main area styling ----------------------- */
+
+#main-section {
+	height: 100%;
+	background-attachment: fixed;
+	background-color: #FCFCFC;
+}
+
+#content-wrap {
+	height: 100%;
+	background-attachment: fixed;
+	background-color: #FCFCFC;
+}
+
+/*  ======================================================= *                   
+ *                    Page Styles                           *
+ * ======================================================== */
+
+.page-title-wide {
+	background-color: #5370B2;
+	background-image: -webkit-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -moz-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -ms-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	color: #F9F9F9;
+}
+
+.page-title-wrap {}
+
+.page-title-wrap h2.left-title {}
+
+/* -------------- Author Page Styling ---------------------------------- */
+.author-bio,.category-page,.search-page {
+	border: 5px solid white;
+	background: #DDDDDD;
+}
+
+.author-border {border-bottom: 3px solid white;}
+
+/* -------------- Portfolio Page Styling ------------------------------- */
+.page-title-wrap h2.portfolio {}
+
+.portfolio_one_column .left_col img {border: 8px solid white;}
+
+.portfolio_two_column .image_container img {border: 7px solid white;}
+
+.portfolio_three_column .image_container img {border: 6px solid white;}
+
+.portfolio_four_column .image_container img {border: 5px solid white;}
+
+/* ================================================================== *
+ *                        Sidebar/Widecolumn Styles                              *
+ * ================================================================== */
+#widecolumn-left{
+	border-left:none;
+}
+
+#widecolumn-right{
+	border-left:none;
+}
+
+.ie7 #widecolumn-right,.ie8 #widecolumn-right,.ie9 #widecolumn-right {
+	border-left: 2px solid #E8ECF2;
+}
+
+.ie7 #widecolumn-left,.ie8 #widecolumn-left,.ie9 #widecolumn-left {
+	border-right: 2px solid #E8ECF2;
+}
+
+#sidebar-right {
+	border-left:none;
+	background-image: -webkit-linear-gradient(left, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+	background-image: -moz-linear-gradient(left, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+	background-image: -ms-linear-gradient(left, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+	background-image: linear-gradient(left, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+}
+
+#sidebar-left {
+	border-right: none;
+	background-image: -webkit-linear-gradient(right, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+	background-image: -moz-linear-gradient(right, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+	background-image: linear-gradient(right, #FCFCFC, #EAEEF7 1.5%, #FCFCFC 3%);
+}
+
+/* ================================================================== *
+ *                        Feature Styles                              *
+ * ================================================================== */
+
+.feature {
+	background-color: #5370B2;
+	background-image: -webkit-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -moz-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: -ms-linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	background-image: linear-gradient(left, #093CB5, #5370B2 50%, #093CB5);
+	color: #F9F9F9;
+}
+
+/* ================================================================== *
+ *               Static Home Page Styles                              *
+ * ================================================================== */
+
+.home-section-type-A,.home-section-2-wrap,.home-section-type-B-wrap  {
+	background: rgba(244,250,253,0.5);
+	/* CSS3 rounded corners */
+   	-webkit-border-radius: 3px;
+   	-moz-border-radius: 3px;
+   	border-radius: 3px;
+   	/* CSS3 shadow */
+	-webkit-box-shadow: 1px 2px 2px 0 rgba(72,72,72,0.8);
+	-moz-box-shadow: 1px 2px 2px 0 rgba(72,72,72,0.8);
+	box-shadow: 1px 2px 2px 0 rgba(72,72,72,0.8);
+}
+
+.ie7 .home-section-type-A,.ie7 .home-section-2-wrap,.ie7 .home-section-type-B-wrap,
+.ie8 .home-section-type-A,.ie8 .home-section-2-wrap,.ie8 .home-section-type-B-wrap  {
+	background-color: #F9FCFE;
+}
+
+.home-section-type-A-button a.button1 {
+	background: #7F7F7F;
+	color : #FCFCFC;
+}
+
+.servicebox-type-A  a.button1,
+.home-section-type-B-html-image a.button1,
+.home-section-type-B-html-noimage a.button1 {
+	background: #7F7F7F;
+	color : #FCFCFC;
+}
+
+/* --------- Contact Page Styling ----------------------------------------*/
+
+#contactmeform input {
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.2);
+}
+
+#contactmeform textarea {
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.2);
+}
+
+/* ================================================================== *
+ *                        Post Styles                                 *
+ * ================================================================== */
+
+/* --------------- post general------------------------------------ */
+.post-title a:hover {color: #7F7F7F;}
+
+.post-wrap .comments,.post-wrap-no-icons .comments {color: #7F7F7F;}
+
+a.comments-button {
+	border: 1px solid #8F9293;
+	background-color: #E8ECF2;
+	color: #447BCE;
+}
+
+a:hover.comments-button {
+	background-color: #447BCE;
+	color: #f2f2f2;
+}
+
+/* --------------- post format content : standard ----------------- */
+.entry img {border: 8px solid white;}
+
+.entry .wp-caption {background: white;}
+
+/* --------------- post format content : aside --------------------- */
+.aside-entry {
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.3);
+}
+
+/* --------------- post format content : status -------------------- */
+.status-entry {
+	background-color: #FBFF8E;
+	background-color: rgba(251,255,142,0.3);
+}
+
+.status-entry .comments {color: #7F7F7F;}
+
+/* --------------- post format content : video ---------------------- */
+.video-entry .video-wrap {
+	background: black;
+	border: 3px solid silver;
+}
+
+.video-entry .video-wrap p {color: #EAEAEA;}
+
+.video-entry .video-wrap a {color: #EAEAEA;}
+
+.video-entry .video-wrap a:hover {color: white;}
+
+/* --------------- post format content : quote ----------------------- */
+.quote-entry blockquote {
+	border: 5px solid white;
+	background: #D1F2A9;
+}
+
+/* --------------- post format content : image ----------------------- */
+.image-entry .wp-caption {background: white;}
+
+.image-entry img {border: 8px solid white}
+
+/* --------------- post format content : audio ----------------------- */
+.audio-entry .audio-wrap {background-color: #D4E6F7;}
+
+/* --------------- Bottom line after every post ---------------------- */
+.bottom-line-1 {
+	border-top: 1px solid #AFAFAF;
+	border-bottom: 3px solid #DDDDDD;
+}
+
+/* -------------- Galleries ------------------------------------------ */
+#content-wrap .gallery-item img{border: 5px solid white;}
+
+/* ================================================================== *
+ *                      Comment Styles                                *
+ * ================================================================== */
+
+.comment {
+	border-top: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+}
+
+.commentlist .bypostauthor {
+	background: url(images/shade.png);
+	background: rgba(226,226,226,0.25);
+}
+
+.blog_comment_click a {
+	border: 1px solid #DDDDDD;
+	background-color: #f7f7f7;
+}
+
+.author-bio,.category-page,.search-page {
+	border: 5px solid white;
+	background: #DDDDDD;
+}
+
+.author-border {
+	border-bottom: 3px solid white;
+}
+
+/* -------------------- HTML tags ---------------------------------- */ 
+ins {
+    background-color:#ff9;
+    color:#000;
+}
+
+mark {
+    background-color:#ff9;
+    color:#000; 
+}
+
+hr {border-top:1px solid #DDDDDD;}
+
+pre {
+	border: solid 5px gray; /* 8px/16px */
+    color: blue;
+    background: #F7F4F4;
+}
+
+/* -------------------- links default ------------------------------- */ 
+a {color: #447BCE;}
+
+a:hover {color: #6C6F70;}
+
+/* --------------------- table styles ------------------------------- */
+th {
+	border: 1px solid #7F7F7F;
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.2);
+}
+
+tfoot {
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.3);
+}
+
+td {border: 1px solid #7F7F7F;}
+
+/* ---------- WrdPress Calender Widget Style ------------------------ */
+	
+#wp-calendar th {
+	border: 1px solid #F9F9F9;
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.2);
+}
+
+#calendar_wrap td#today {
+	background-color: #E3E3E3;
+	background-color: rgba(165,149,149,0.2);
+}
+
+/* -------------------- Responsive imaging ------------------------- */
+img {border: 8px solid white;}
+
+img.addborder {border: 8px solid white;}
+
+/* -------------- Error Styling ---------------------------------------- */
+.error {	
+	color: red;
+	background-color: white;
+}
